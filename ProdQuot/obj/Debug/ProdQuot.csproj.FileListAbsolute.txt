@@ -1,0 +1,7 @@
+C:\CC6\HW6\HW6\ProdQuot\bin\Debug\ProdQuot.exe.config
+C:\CC6\HW6\HW6\ProdQuot\bin\Debug\ProdQuot.exe
+C:\CC6\HW6\HW6\ProdQuot\bin\Debug\ProdQuot.pdb
+C:\CC6\HW6\HW6\ProdQuot\obj\Debug\ProdQuot.csprojAssemblyReference.cache
+C:\CC6\HW6\HW6\ProdQuot\obj\Debug\ProdQuot.csproj.CoreCompileInputs.cache
+C:\CC6\HW6\HW6\ProdQuot\obj\Debug\ProdQuot.exe
+C:\CC6\HW6\HW6\ProdQuot\obj\Debug\ProdQuot.pdb
